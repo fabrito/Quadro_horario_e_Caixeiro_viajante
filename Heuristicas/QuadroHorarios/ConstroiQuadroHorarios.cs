@@ -35,7 +35,7 @@ namespace QuadroHorarios
         public override List<IComponente> GerarComponentes()
         {
             alocPoss = new List<IComponente>();
-            
+            // gera uma lista de componentes possiveis, ou seja, professores que não tenham restrição ao horario e não esteja com a alocação completa
             for (int i = 0; i < professores.Count(); i++ )
             {
                 if (!RestrincaoHorario(professores[i], Solucao.Componentes.Count()) && CargaHorariaIncompleta(professores[i]))
@@ -54,6 +54,7 @@ namespace QuadroHorarios
 
             foreach (Alocacao aloc in Componentes)
             {
+                // seleciona na lista a alocação em que o professor tem maior numero de restições a outros horários
                 if (aloc.professor.restricoes.Count() > numRestricoes && CargaHorariaIncompleta(aloc.professor))
                 {
                     numRestricoes = aloc.professor.restricoes.Count();
@@ -66,6 +67,7 @@ namespace QuadroHorarios
                 alocar = (Alocacao)Componentes[memPos];
             else
             {
+                // chama a função que realoca um professor quando existe professores com alocação incompleta e restrição aos horarios disponiveis
                 alocar = Realocacao();
                 if (alocar == null)
                     System.Console.Write("Não foi possivel gerar uma solução.\n\n");
@@ -81,6 +83,7 @@ namespace QuadroHorarios
 
             for (int i = 0; i<professores.Count(); i++)
             {
+                // adciona na lista professores com a carga horaria incompleta
                 if (CargaHorariaIncompleta(professores[i]))
                     cargaInc.Add(professores[i]);
             }
@@ -90,6 +93,7 @@ namespace QuadroHorarios
                 Alocacao aloc = (Alocacao)Solucao.Componentes[i];
                 for (int j=0; j<cargaInc.Count(); j++)
                 {
+                    // tenta trocar um professor alocado por um disponivel na lista de componentes da solução
                     if (!aloc.horario.restHorario.Contains(cargaInc[j]))
                     {
                         Solucao.Componentes.Remove(Solucao.Componentes[i]);
@@ -109,6 +113,7 @@ namespace QuadroHorarios
 
         Boolean RestrincaoHorario(Professor p, int i)
         {
+            // verifica se o professor tem restrição ao horario especifico da lista passado pelo indice i
             if (p.restricoes.Contains(horarios[i]))
                 return true;
             else    
