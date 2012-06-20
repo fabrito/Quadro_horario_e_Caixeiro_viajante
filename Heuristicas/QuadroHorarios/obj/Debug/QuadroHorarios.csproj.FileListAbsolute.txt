@@ -1,0 +1,14 @@
+F:\7 periodo\IA\heuristicas\Heuristicas\QuadroHorarios\obj\Debug\ResolveAssemblyReference.cache
+F:\7 periodo\IA\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\QuadroHorarios.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\QuadroHorarios.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\HeuristicaConstrutiva.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\HeuristicaConstrutiva.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\QuadroHorarios\obj\Debug\QuadroHorarios.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\QuadroHorarios\obj\Debug\QuadroHorarios.pdb
+E:\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\QuadroHorarios.dll
+E:\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\QuadroHorarios.pdb
+E:\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\HeuristicaConstrutiva.dll
+E:\heuristicas\Heuristicas\QuadroHorarios\bin\Debug\HeuristicaConstrutiva.pdb
+E:\heuristicas\Heuristicas\QuadroHorarios\obj\Debug\ResolveAssemblyReference.cache
+E:\heuristicas\Heuristicas\QuadroHorarios\obj\Debug\QuadroHorarios.dll
+E:\heuristicas\Heuristicas\QuadroHorarios\obj\Debug\QuadroHorarios.pdb

@@ -1,0 +1,10 @@
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaConstrutiva\bin\Debug\HeuristicaConstrutiva.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaConstrutiva\bin\Debug\HeuristicaConstrutiva.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaConstrutiva\obj\Debug\ResolveAssemblyReference.cache
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaConstrutiva\obj\Debug\HeuristicaConstrutiva.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaConstrutiva\obj\Debug\HeuristicaConstrutiva.pdb
+E:\heuristicas\Heuristicas\HeuristicaConstrutiva\bin\Debug\HeuristicaConstrutiva.dll
+E:\heuristicas\Heuristicas\HeuristicaConstrutiva\bin\Debug\HeuristicaConstrutiva.pdb
+E:\heuristicas\Heuristicas\HeuristicaConstrutiva\obj\Debug\ResolveAssemblyReference.cache
+E:\heuristicas\Heuristicas\HeuristicaConstrutiva\obj\Debug\HeuristicaConstrutiva.dll
+E:\heuristicas\Heuristicas\HeuristicaConstrutiva\obj\Debug\HeuristicaConstrutiva.pdb

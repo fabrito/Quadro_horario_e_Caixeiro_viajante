@@ -1,0 +1,18 @@
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaMelhoria.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaMelhoria.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\obj\Debug\ResolveAssemblyReference.cache
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb
+E:\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.dll
+E:\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\CaixeiroViajante.pdb
+E:\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.dll
+E:\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaMelhoria.dll
+E:\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaConstrutiva.pdb
+E:\heuristicas\Heuristicas\CaixeiroViajante\bin\Debug\HeuristicaMelhoria.pdb
+E:\heuristicas\Heuristicas\CaixeiroViajante\obj\Debug\ResolveAssemblyReference.cache
+E:\heuristicas\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.dll
+E:\heuristicas\Heuristicas\CaixeiroViajante\obj\Debug\CaixeiroViajante.pdb

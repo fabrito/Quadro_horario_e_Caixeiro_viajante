@@ -1,0 +1,43 @@
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\Heuristicas.exe
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\Heuristicas.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\CaixeiroViajante.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaConstrutiva.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaMelhoria.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\ProblemaMochila.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\CaixeiroViajante.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaConstrutiva.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaMelhoria.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\bin\Debug\ProblemaMochila.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\Heuristicas.exe
+F:\7 periodo\IA\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\Heuristicas.pdb
+E:\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\Heuristicas.exe
+E:\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\Heuristicas.pdb
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\Heuristicas.exe
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\Heuristicas.pdb
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\CaixeiroViajante.dll
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaConstrutiva.dll
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaMelhoria.dll
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\ProblemaMochila.dll
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\CaixeiroViajante.pdb
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaConstrutiva.pdb
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaMelhoria.pdb
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\ProblemaMochila.pdb
+E:\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\QuadroHorarios.dll
+E:\heuristicas\Heuristicas\Heuristicas\bin\Debug\QuadroHorarios.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\Heuristicas.exe
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\Heuristicas.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\Heuristicas.exe
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\Heuristicas.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\CaixeiroViajante.dll
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaConstrutiva.dll
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaMelhoria.dll
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\ProblemaMochila.dll
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\QuadroHorarios.dll
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\CaixeiroViajante.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaConstrutiva.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\HeuristicaMelhoria.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\ProblemaMochila.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\bin\Debug\QuadroHorarios.pdb
+F:\7 periodo\heuristicas\Heuristicas\Heuristicas\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,14 @@
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaMelhoria.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaMelhoria.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaConstrutiva.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaConstrutiva.pdb
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaMelhoria\obj\Debug\ResolveAssemblyReference.cache
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaMelhoria\obj\Debug\HeuristicaMelhoria.dll
+F:\7 periodo\IA\heuristicas\Heuristicas\HeuristicaMelhoria\obj\Debug\HeuristicaMelhoria.pdb
+E:\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaMelhoria.dll
+E:\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaMelhoria.pdb
+E:\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaConstrutiva.dll
+E:\heuristicas\Heuristicas\HeuristicaMelhoria\bin\Debug\HeuristicaConstrutiva.pdb
+E:\heuristicas\Heuristicas\HeuristicaMelhoria\obj\Debug\ResolveAssemblyReference.cache
+E:\heuristicas\Heuristicas\HeuristicaMelhoria\obj\Debug\HeuristicaMelhoria.dll
+E:\heuristicas\Heuristicas\HeuristicaMelhoria\obj\Debug\HeuristicaMelhoria.pdb
